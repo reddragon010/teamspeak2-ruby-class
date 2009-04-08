@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentDocument</key>
+	<string>ruby_ts2_class.rb</string>
+	<key>documents</key>
+	<array>
+		<dict>
+			<key>filename</key>
+			<string>rts2_test.rb</string>
+			<key>lastUsed</key>
+			<date>2008-08-22T12:17:12Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>ruby_ts2_class.rb</string>
+			<key>lastUsed</key>
+			<date>2009-04-08T14:11:55Z</date>
+			<key>selected</key>
+			<true/>
+		</dict>
+	</array>
+	<key>fileHierarchyDrawerWidth</key>
+	<integer>200</integer>
+	<key>metaData</key>
+	<dict>
+		<key>rts2_test.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>61</integer>
+				<key>line</key>
+				<integer>15</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>ruby_ts2_class.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>2</integer>
+				<key>line</key>
+				<integer>163</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>117</integer>
+		</dict>
+	</dict>
+	<key>openDocuments</key>
+	<array>
+		<string>ruby_ts2_class.rb</string>
+		<string>rts2_test.rb</string>
+	</array>
+	<key>showFileHierarchyDrawer</key>
+	<true/>
+	<key>windowFrame</key>
+	<string>{{-899, 389}, {701, 618}}</string>
+</dict>
+</plist>
