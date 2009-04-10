@@ -2,7 +2,7 @@
 
 require "socket"
 
-class RubyTS2Class
+class RubyTS2
  
   def initialize() 
     #Config
@@ -164,7 +164,3 @@ class RubyTS2Class
   
   
 end
-
-ts2 = RubyTS2Class.new
-ts2.connect("dreamblaze.net",51234)
-puts ts2.server_playerlist.inspect

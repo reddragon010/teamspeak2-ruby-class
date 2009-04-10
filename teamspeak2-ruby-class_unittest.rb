@@ -1,9 +1,9 @@
-require "ruby_ts2_class"
+require "teamspeak2-ruby-class.rb"
 require "test/unit"
 
-class TestRTS2Class < Test::Unit::TestCase
+class RubyTS2_unittest < Test::Unit::TestCase
   def setup
-    @ts2 = RubyTS2Class.new
+    @ts2 = RubyTS2.new
     @ts2.connect("dreamblaze.net",8767)
   end
   

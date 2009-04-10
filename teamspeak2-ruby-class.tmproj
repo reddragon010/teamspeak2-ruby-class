@@ -3,65 +3,86 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>ruby_ts2_class.rb</string>
+	<string>teamspeak2-ruby-class_unittest.rb</string>
 	<key>documents</key>
 	<array>
 		<dict>
 			<key>filename</key>
-			<string>rts2_test.rb</string>
+			<string>teamspeak2-ruby-class_unittest.rb</string>
 			<key>lastUsed</key>
-			<date>2008-08-22T12:17:12Z</date>
+			<date>2009-04-08T14:45:45Z</date>
+			<key>selected</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>filename</key>
-			<string>ruby_ts2_class.rb</string>
+			<string>teamspeak2-ruby-class.rb</string>
 			<key>lastUsed</key>
-			<date>2009-04-08T14:11:55Z</date>
-			<key>selected</key>
-			<true/>
+			<date>2009-04-08T14:45:45Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>README</string>
+			<key>lastUsed</key>
+			<date>2009-04-08T14:30:05Z</date>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
 	<integer>200</integer>
 	<key>metaData</key>
 	<dict>
-		<key>rts2_test.rb</key>
+		<key>README</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>61</integer>
+				<integer>213</integer>
 				<key>line</key>
-				<integer>15</integer>
+				<integer>2</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>ruby_ts2_class.rb</key>
+		<key>teamspeak2-ruby-class.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>2</integer>
+				<integer>3</integer>
 				<key>line</key>
-				<integer>163</integer>
+				<integer>165</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>117</integer>
+			<integer>136</integer>
+		</dict>
+		<key>teamspeak2-ruby-class_unittest.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>18</integer>
+				<key>line</key>
+				<integer>5</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>ruby_ts2_class.rb</string>
-		<string>rts2_test.rb</string>
+		<string>README</string>
+		<string>teamspeak2-ruby-class_unittest.rb</string>
+		<string>teamspeak2-ruby-class.rb</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{-899, 389}, {701, 618}}</string>
+	<string>{{269, 308}, {701, 618}}</string>
 </dict>
 </plist>
